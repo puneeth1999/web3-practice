@@ -1,3 +1,5 @@
+# Using functions of smart contracts on etherscan.io
+
 from web3 import Web3
 import json
 from config import infura_url, app2_abi, app3_address, app3_holder_address

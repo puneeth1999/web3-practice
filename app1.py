@@ -1,3 +1,5 @@
+# Connecting to Web3, using infura, getting balance of an account using account number taken from etherscan.io
+
 from web3 import Web3
 from config import infura_url, app1_account
 web3 = Web3(Web3.HTTPProvider(infura_url))

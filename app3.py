@@ -1,3 +1,5 @@
+# Using ganache and sending 1 eth from a sender to a receiver
+
 from web3 import Web3
 from config import sender, receiver, sender_pvt_key
 web3 = Web3(Web3.HTTPProvider("http://127.0.0.1:7545"))

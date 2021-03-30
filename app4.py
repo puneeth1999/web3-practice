@@ -1,3 +1,4 @@
+# Created a new contract using Solidity on remix.etherium.org - using abi and address.
 from web3 import Web3
 import json
 from config import app4_abi, app4_address
